@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.18.1](https://github.com/patrickjahns/ansible-role-promtail/tree/1.18.1) (2022-07-21)
+
+[Full Changelog](https://github.com/patrickjahns/ansible-role-promtail/compare/1.18.0...1.18.1)
+
+**Merged pull requests:**
+
+- chore\(deps\): update dependency molecule to v4.0.1 [\#123](https://github.com/patrickjahns/ansible-role-promtail/pull/123) ([renovate[bot]](https://github.com/apps/renovate))
+
 ## [1.18.0](https://github.com/patrickjahns/ansible-role-promtail/tree/1.18.0) (2022-07-19)
 
 [Full Changelog](https://github.com/patrickjahns/ansible-role-promtail/compare/1.17.0...1.18.0)
